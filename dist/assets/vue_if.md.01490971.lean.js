@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,g as l}from"./app.bce87fe8.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vue/if.md"}'),p={name:"vue/if.md"},o=l("",1),t=[o];function e(c,F,y,r,D,C){return n(),a("div",null,t)}var h=s(p,[["render",e]]);export{i as __pageData,h as default};
