@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,d as l}from"./app.8869db2f.js";const C=JSON.parse('{"title":"Push \u6570\u7EC4\u6DFB\u52A0","description":"","frontmatter":{},"headers":[],"relativePath":"js/push.md"}'),p={name:"js/push.md"},o=l("",2),t=[o];function e(c,r,y,F,D,i){return a(),n("div",null,t)}var f=s(p,[["render",e]]);export{C as __pageData,f as default};

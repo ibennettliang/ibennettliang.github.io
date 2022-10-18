@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,d as l}from"./app.8869db2f.js";const C=JSON.parse('{"title":"Chunk \u6570\u7EC4\u5206\u5757","description":"","frontmatter":{},"headers":[],"relativePath":"js/chunk.md"}'),p={name:"js/chunk.md"},o=l("",2),t=[o];function e(c,r,y,F,D,i){return n(),a("div",null,t)}var f=s(p,[["render",e]]);export{C as __pageData,f as default};
