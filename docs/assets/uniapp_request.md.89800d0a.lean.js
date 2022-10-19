@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,a as l}from"./app.44dbe149.js";const C=JSON.parse('{"title":"\u8BF7\u6C42\u5C01\u88C5","description":"","frontmatter":{},"headers":[],"relativePath":"uniapp/request.md"}'),p={name:"uniapp/request.md"},o=l("",6),e=[o];function t(c,r,F,y,D,i){return n(),a("div",null,e)}var u=s(p,[["render",t]]);export{C as __pageData,u as default};

@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,a as l}from"./app.fa045a77.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"uniapp/back.md"}'),p={name:"uniapp/back.md"},o=l("",1),t=[o];function e(c,r,y,F,D,i){return a(),n("div",null,t)}var _=s(p,[["render",e]]);export{C as __pageData,_ as default};

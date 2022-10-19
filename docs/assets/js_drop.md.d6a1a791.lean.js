@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,a as l}from"./app.fa045a77.js";const C=JSON.parse('{"title":"Drop \u83B7\u53D6\u6570\u7EC4\u7684\u67D0\u4E9B\u5143\u7D20","description":"","frontmatter":{},"headers":[],"relativePath":"js/drop.md"}'),o={name:"js/drop.md"},p=l("",2),t=[p];function e(c,r,y,i,F,D){return a(),n("div",null,t)}var f=s(o,[["render",e]]);export{C as __pageData,f as default};
