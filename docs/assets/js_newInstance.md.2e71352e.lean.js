@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,a as l}from"./app.4070362b.js";const C=JSON.parse('{"title":"NewInstance \u521B\u5EFA\u65B0\u5BF9\u8C61","description":"","frontmatter":{},"headers":[],"relativePath":"js/newInstance.md"}'),o={name:"js/newInstance.md"},p=l("",2),t=[p];function e(c,r,y,F,i,D){return n(),a("div",null,t)}var f=s(o,[["render",e]]);export{C as __pageData,f as default};

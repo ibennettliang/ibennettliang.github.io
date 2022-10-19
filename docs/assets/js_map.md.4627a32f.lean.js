@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,a as l}from"./app.fa045a77.js";const C=JSON.parse('{"title":"Map","description":"","frontmatter":{},"headers":[],"relativePath":"js/map.md"}'),p={name:"js/map.md"},o=l("",2),t=[o];function e(c,r,y,i,F,D){return a(),n("div",null,t)}var f=s(p,[["render",e]]);export{C as __pageData,f as default};

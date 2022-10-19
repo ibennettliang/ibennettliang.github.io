@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,a as l}from"./app.fa045a77.js";const f=JSON.parse('{"title":"Call","description":"","frontmatter":{},"headers":[],"relativePath":"js/call.md"}'),o={name:"js/call.md"},p=l("",2),t=[p];function e(c,y,r,i,F,D){return n(),a("div",null,t)}var C=s(o,[["render",e]]);export{f as __pageData,C as default};
